@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "noteappb6077bd1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
